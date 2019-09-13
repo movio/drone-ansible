@@ -61,7 +61,8 @@
         "auto_tag_suffix": "linux-amd64",
         "dockerfile": "docker/Dockerfile.linux.amd64",
         "repo": "plugins/ansible",
-        "registry": "864091978270.dkr.ecr.ap-southeast-2.amazonaws.com"
+        "registry": "864091978270.dkr.ecr.ap-southeast-2.amazonaws.com",
+        "region": "ap-southeast-2"
       },
       "when": {
         "event": {

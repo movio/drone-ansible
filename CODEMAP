@@ -1,0 +1,6 @@
+.drone.yml  cloud_infrastructure/drone/build/main
+README.md   cloud_infrastructure/drone/drone_ansible/readme
+docker/     cloud_infrastructure/drone/drone_ansible/code
+go.mod      cloud_infrastructure/drone/build/main
+go.sum      cloud_infrastructure/drone/build/main
+*.go        cloud_infrastructure/drone/drone_ansible/code

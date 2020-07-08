@@ -1,0 +1,12 @@
+tower-ssh-key.pub
+# terraform
+.terraform
+deploy.txt
+*.plan
+.idea/*
+.idea/
+.DS_Store
+.tfplan
+*.tfplan
+*.retry
+LICENSE
